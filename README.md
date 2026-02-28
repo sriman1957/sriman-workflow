@@ -74,20 +74,11 @@
 
 ---
 
-## Project Structure
-
-```
-srimans-workflow/
-└── index.html        # Complete application — all HTML, CSS, and JS in one file
-└── README.md         # Project documentation
-```
-
----
 
 ## Live Demo
 
 Hosted via GitHub Pages:
-**[https://sreeyanshhatkar.github.io/srimans-workflow/](https://sreeyanshhatkar.github.io/srimans-workflow/)**
+**[https://sriman1957.github.io/srimans-workflow/](https://sriman1957.github.io/srimans-workflow/)**
 
 ---
 
@@ -101,10 +92,9 @@ No installation needed. Simply:
 
 ---
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-<p align="center">Built by <strong>Sriman</strong></p>
+<p align="center">
+  Built with ❤️ by <strong>Sriman</strong>
+</p>
+<p align="center">
+  © 2026 Sriman. All Rights Reserved.
+</p>
