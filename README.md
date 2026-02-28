@@ -73,12 +73,6 @@
 | Google Fonts | DM Sans (body) + Fraunces (headings) |
 
 ---
-
-Project Structure
-srimans-workflow/
-└── index.html        # Complete application — all HTML, CSS, and JS in one file
-└── README.md         # Project documentation
----
 Live Demo
 Hosted via GitHub Pages:
 https://sriman1957.github.io/srimans-workflow/
