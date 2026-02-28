@@ -1,3 +1,3 @@
-# Striman's Workflow
+# Sriman's Workflow
 
-##this is a simple browser based To-Do list website
+##This is a simple browser based To-Do list website
